@@ -1,7 +1,7 @@
 # Projeto-Landing-Pages.
 SITE:
 <br>
-https://668985a6524ab79e7c4c2ed5--leafy-tarsier-9decce.netlify.app/ 
+https://668b55dd350370a346e59e3c--storied-otter-2c3f23.netlify.app/
 <br>
 PLANILHA:
 <br>
